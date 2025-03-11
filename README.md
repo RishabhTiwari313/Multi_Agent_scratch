@@ -11,3 +11,6 @@ User-Friendly Interface: Streamlit-based web app for easy interaction and task m
 
 
 ![image](https://github.com/user-attachments/assets/566aee9f-0487-4192-9484-67ce9cced131)
+
+# Usage
+streamlit run app.py
